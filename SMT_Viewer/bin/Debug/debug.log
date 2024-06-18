@@ -1,0 +1,32 @@
+[0618/115144.833:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0618/115147.906:INFO:CONSOLE(2)] "Failed to execute 'postMessage' on 'DOMWindow': The target origin provided ('https://shopsquare.naver.com') does not match the recipient window's origin ('https://www.naver.com').", source: https://pm.pstatic.net/resources/js/main.4698d75a.js?o=www (2)
+[0618/115150.243:INFO:CONSOLE(1)] "Uncaught (in promise) Error: timeout of 2000ms exceeded", source: https://spastatic.naver.com/v1/shopad/static/shopad-square-node/v2403251051/_next/static/chunks/pages/_app-6b05dd278a11042d.js (1)
+[0618/115158.828:WARNING:frame_impl.cc(431)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-7F5201A0130DF59AE61958684B3717B0 will be ignored
+[0618/115208.156:ERROR:ssl_client_socket_impl.cc(879)] handshake failed; returned -1, SSL error code 1, net_error -101
+[0618/115310.221:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0618/115534.869:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0618/115551.685:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0618/115750.516:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0618/120118.842:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0618/120141.947:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0618/120142.172:WARNING:backend_impl.cc(1563)] Messed up entry found.
+[0618/120142.173:WARNING:backend_impl.cc(1759)] Destroying invalid entry.
+[0618/120426.556:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0618/120810.510:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0618/120811.243:ERROR:ssl_client_socket_impl.cc(879)] handshake failed; returned -1, SSL error code 1, net_error -107
+[0618/120812.096:INFO:CONSOLE(2)] "Failed to execute 'postMessage' on 'DOMWindow': The target origin provided ('https://shopsquare.naver.com') does not match the recipient window's origin ('https://www.naver.com').", source: https://pm.pstatic.net/resources/js/main.4698d75a.js?o=www (2)
+[0618/120817.545:WARNING:frame_impl.cc(431)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-F42F9A242B23EA2E5AA5393C51AF7251 will be ignored
+[0618/120928.932:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0618/120942.677:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0618/120943.321:INFO:CONSOLE(2)] "Failed to execute 'postMessage' on 'DOMWindow': The target origin provided ('https://shopsquare.naver.com') does not match the recipient window's origin ('https://www.naver.com').", source: https://pm.pstatic.net/resources/js/main.4698d75a.js?o=www (2)
+[0618/120947.833:WARNING:frame_impl.cc(431)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-8CBFF09943316DA097AD73786BC40421 will be ignored
+[0618/120947.835:WARNING:frame_impl.cc(431)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-45F98D49282A8FE083065DCF2B64869C will be ignored
+[0618/121000.851:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0618/121127.738:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0618/121128.423:INFO:CONSOLE(2)] "Failed to execute 'postMessage' on 'DOMWindow': The target origin provided ('https://shopsquare.naver.com') does not match the recipient window's origin ('https://www.naver.com').", source: https://pm.pstatic.net/resources/js/main.4698d75a.js?o=www (2)
+[0618/121129.144:WARNING:frame_impl.cc(431)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-9C9BC695D8808EC5F370D0A939ED8A7B will be ignored
+[0618/121254.198:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0618/121254.862:INFO:CONSOLE(2)] "Failed to execute 'postMessage' on 'DOMWindow': The target origin provided ('https://shopsquare.naver.com') does not match the recipient window's origin ('https://www.naver.com').", source: https://pm.pstatic.net/resources/js/main.4698d75a.js?o=www (2)
+[0618/121255.588:WARNING:frame_impl.cc(431)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-5DF5FB8C23F9EF638A5909FC9991B9F2 will be ignored
+[0618/121414.679:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0618/122105.505:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
