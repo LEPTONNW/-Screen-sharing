@@ -29,6 +29,6 @@
  기본포트는 8050으로 되어있습니다 "StreamSV.Text = "http://" + IPHost.AddressList[0].ToString()+":8050";" 부분을 수정하시면 됩니다.
 
 
-# SMT_Viwer 
+# SMT_Viewer 
 SMT Viwer 라는 이름의 뷰어가 추가 되었습니다. 화면공유중인 PC의 IP주소를 입력한 후 연결 버튼을 누르면
 최상위 화면에 고정되는 Chrome 기반의 뷰어가 열립니다.
