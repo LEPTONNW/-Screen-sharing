@@ -36,4 +36,5 @@ SMT Viwer 라는 이름의 뷰어가 추가 되었습니다. 화면공유중인 
 파일크기가 너무커서 빌드된 파일은 따로 올리겠습니다
 # 다운로드
 -화면공유 https://gofile.me/6Z0TD/CpXugxCJM
+
 -뷰어 https://gofile.me/6Z0TD/1Ty7keG3A
